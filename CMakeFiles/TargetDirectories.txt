@@ -1,0 +1,3 @@
+/home/da185157/src/optic/my/sample/CMakeFiles/edit_cache.dir
+/home/da185157/src/optic/my/sample/CMakeFiles/sample.dir
+/home/da185157/src/optic/my/sample/CMakeFiles/rebuild_cache.dir
