@@ -30,3 +30,16 @@
     -	A	CMakeFiles/sample.dir/progress.make
     -	A	Makefile
     -	A	cmake_install.cmake
+
+-----------
+
+	modified:   CMakeFiles/sample.dir/depend.make
+
+Untracked files:
+
+	CMakeFiles/sample.dir/CXX.includecache
+	CMakeFiles/sample.dir/depend.internal
+	CMakeFiles/sample.dir/testapp.cpp.o
+	sample.exe
+
+-----------

@@ -1,9 +1,9 @@
 #include <iostream>
-
+#include <functional>
 using namespace std;
 
 int main () 
 {
-    cout << "hello world" << endl;
+    [x = ref(cout << "hello ")](){x.get() << "world\n";}();
     return 0;
 }
